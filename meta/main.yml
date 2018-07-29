@@ -1,0 +1,20 @@
+---
+galaxy_info:
+  author: "Yurii Fisakov"
+  description: "Ansible role for installing Vagrant"
+  license: "MIT"
+  min_ansible_version: 1.6
+  platforms:
+  - name: Ubuntu
+    versions:
+      - all
+  - name: Debian
+    versions:
+      - all
+  galaxy_tags:
+  - development
+  - system
+  - packaging
+  - cloud
+
+dependencies: []
