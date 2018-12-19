@@ -1,5 +1,5 @@
 vagrant_tmp: "/tmp/"
 vagrant_file: "vagrant"
-vagrant_version: 2.1.2
+vagrant_version: 2.2.2
 vagrant_arch_ext: "x86_64"
 download_vagrant: True
